@@ -1,0 +1,20 @@
+body{
+    background-color: cornflowerblue;
+    color: rgb(45, 30, 177);
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(1 1fr);
+    width: 1200px;
+}
+.text{
+    font-size: 1.5rem;
+}
+.text2{
+    font-size: 1rem;
+}
+.image{
+    height: 400px;
+    width:fit-content;
+}
+
